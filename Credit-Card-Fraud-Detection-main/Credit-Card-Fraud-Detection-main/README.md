@@ -1,15 +1,5 @@
 
-## Badges
 
-[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
-[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-[![CC-0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://creativecommons.org/licenses/by-nd/4.0)
-[![git](https://badgen.net/badge/icon/git?icon=git&label)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
-[![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
-[![Windows](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/)
 
 
 # 💳Credit-Card-Fraud-Detection
@@ -32,25 +22,7 @@ It contains only numerical input variables which are the result of a PCA transfo
 
 Given the class imbalance ratio, we recommend measuring the accuracy using the Area Under the Precision-Recall Curve (AUPRC). Confusion matrix accuracy is not meaningful for unbalanced classification.
 
-## 📈 Dataset Link
-🏠 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
-## ⬇️ Installation Guide
 
-Install Credit Card Fraud Detection Project with git command
-
-### Step - 1 Clone the github repository
-```bash
-    git clone https://github.com/coderhersh/Credit-Card-Fraud-Detection.git
-```
-### Step - 2 Install all required python packages
-``` bash
-    pip3 install pandas
-    pip3 install matplotlib
-    pip3 install sklearn
-```
-
-### Step - 3 Open the file
-    Open project.ipynb file on jupyter notebook either on Web Browser or on VS Code.
 ## 🤖 Machine Learning Algorithms Used
 
 ### Logistic Regression
@@ -84,18 +56,8 @@ A hard voting ensemble is used in classification to predict the class with the g
 The predictions from many models are combined in a voting ensemble. It can be used for regression or classification. In the case of regression, this entails taking the average of the models' predictions. When it comes to classification, the predictions for each label are added together, and the label with the most votes is chosen.
 
 
-![majority_voting](https://user-images.githubusercontent.com/56130865/163222690-f0804689-01f3-4d34-9bf1-e456cf50068a.png)
-
-## 📓 Authors
-
-- [@coderhersh](https://github.com/coderhersh)
 
 
-## 🚀 About Me
-I'm a 4th year B.Tech CSE student currently brushing up my skills on Python and Machine Learning.
 
-## 🌟References
-1️⃣ https://www.analyticsvidhya.com/ <br/>
-2️⃣ https://towardsdatascience.com/ <br/>
-3️⃣ https://scikit-learn.org/stable/ <br/>
-4️⃣ https://pandas.pydata.org/docs/
+
+
